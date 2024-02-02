@@ -6,3 +6,7 @@ To use the new template, run the following command:
 ```
 npx create-react-app my-app --template file:../path/to/your/template/cra-template-[template-name]
 ```
+To create a tar.gz file for distributing over the web:
+```
+tar -cf template.tar.gz template-directory-name
+```
