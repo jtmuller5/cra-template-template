@@ -10,3 +10,7 @@ To create a tar.gz file for distributing over the web:
 ```
 tar -cf template.tar.gz template-directory-name
 ```
+To use the tar.gz file as a template:
+```
+npx create-react-app my-app --template https://example.com/my-custom-template-0.8.2.tar.gz
+```
