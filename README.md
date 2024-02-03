@@ -8,7 +8,7 @@ npx create-react-app my-app --template file:../path/to/your/template/cra-templat
 ```
 To create a tar.gz file for distributing over the web:
 ```
-tar -cf template-name.tar.gz template-name
+tar -czvf template-name.tar.gz template-name
 ```
 
 To use the tar.gz file as a template:
