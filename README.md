@@ -14,7 +14,3 @@ To use the tar.gz file as a template:
 ```
 npx create-react-app my-app --template https://example.com/my-custom-template-0.8.2.tar.gz
 ```
-To use a tar.gz template hosted on Github:
-```
-npx create-react-app my_app --template https://github.com/jtmuller5/cra-template-template/raw/main/template.tar.gz
-```
